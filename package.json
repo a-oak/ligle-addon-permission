@@ -1,0 +1,18 @@
+{
+  "name": "ligle-addon-permission",
+  "version": "0.3.0",
+  "description": "permission control",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.hijack.moe:crackhopper/ligle-addon-permission.git"
+  },
+  "keywords": [
+    "permission"
+  ],
+  "author": "crackhopper",
+  "license": "ligle"
+}
