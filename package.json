@@ -13,6 +13,13 @@
   "keywords": [
     "permission"
   ],
+  "peerDependencies": {
+    "ligle-util": "~0.3.2",
+    "ligle-db": "~0.3.2",
+    "ligle-model": "~0.3.2",
+    "ligle-midware": "~0.3.3",
+    "ligle-engine": "~0.3.3"
+  },
   "author": "crackhopper",
   "license": "ligle"
 }
