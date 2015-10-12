@@ -1,14 +1,15 @@
 {
   "name": "ligle-addon-permission",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "route permission control midware",
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
   },
+  "homepage": "https://github.com/a-oak/ligle-addon-permission",
   "repository": {
     "type": "git",
-    "url": "git@git.hijack.moe:crackhopper/ligle-addon-permission.git"
+    "url": "https://github.com/a-oak/ligle-addon-permission.git"
   },
   "keywords": [
     "permission"
