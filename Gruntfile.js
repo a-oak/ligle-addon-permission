@@ -120,7 +120,9 @@ module.exports = function(grunt) {// jshint ignore:line
           after:previousTag,
           fileHeader: '\n# v<%= pkg.version%>\n'
         }
-      }
+      },
+      normal:{
+      },
     },
 
     // grunt-git begin
